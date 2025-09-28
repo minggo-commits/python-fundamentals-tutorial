@@ -9,4 +9,16 @@ for i in range(1, 21):
     if i >= 15:
         break
     print(i)
-    
+
+print("-----------------------------------------------------------------------")
+
+"""Buat program yang menampilkan pola segitiga bintang seperti ini:
+*
+**
+***
+****
+*****
+"""
+
+for i in range(1, 6):
+    print(i*"*")
