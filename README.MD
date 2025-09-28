@@ -802,25 +802,7 @@ print(UtilMatematika.luas_lingkaran(5))   # 78.53975
 
 ---
 
-## Practice Exercises / Latihan
-
-### English Exercises
-1. **Conditions**: Write a program that determines if a year is a leap year
-2. **Loops**: Create a program that prints the multiplication table for a given number
-3. **Functions**: Write a function that calculates the factorial of a number
-4. **Data Structures**: Create a student management system using dictionaries
-5. **Classes**: Design a basic banking system with account classes
-
-### Latihan Bahasa Indonesia
-1. **Kondisi**: Tulis program yang menentukan apakah suatu tahun adalah tahun kabisat
-2. **Perulangan**: Buat program yang mencetak tabel perkalian untuk angka tertentu
-3. **Fungsi**: Tulis fungsi yang menghitung faktorial suatu angka
-4. **Struktur Data**: Buat sistem manajemen siswa menggunakan dictionary
-5. **Kelas**: Rancang sistem perbankan sederhana dengan kelas akun
-
----
-
-## Additional Resources / Sumber Tambahan
+## Additional Resources 
 
 ### English Resources
 - [Python Official Documentation](https://docs.python.org/3/)
@@ -834,16 +816,11 @@ print(UtilMatematika.luas_lingkaran(5))   # 78.53975
 
 ---
 
-## Contributing / Berkontribusi
+## Contributing 
 
 Feel free to contribute to this learning guide by submitting pull requests or opening issues.
-
-Silakan berkontribusi pada panduan belajar ini dengan mengirimkan pull request atau membuka issue.
-
 ---
 
-## License / Lisensi
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Proyek ini dilisensikan di bawah MIT License - lihat file LICENSE untuk detailnya.
