@@ -824,4 +824,4 @@ Feel free to contribute to this learning guide by submitting pull requests or op
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License 
