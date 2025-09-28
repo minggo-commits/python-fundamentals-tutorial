@@ -51,7 +51,6 @@ def test_soal_1():
     result = soal_1()
     assert result == expected, f"Expected {expected} but got {result}"
     print('✅ Test soal_1 Pass')
-  
 
 if __name__ == "__main__":
     test_soal_1()

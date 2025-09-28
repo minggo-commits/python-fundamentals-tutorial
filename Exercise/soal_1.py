@@ -8,9 +8,4 @@ def soal_1():
         result.append(i)
     return result
 
-
-def soal_2():
-    """
     
-    
-    """
