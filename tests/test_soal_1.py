@@ -44,22 +44,14 @@
 #     print(k*x)
 #     k += -1
 
-def task_1():
-    """
-    Task: print number from 1 to 10
-    Return: [1,2,3,4,5.....,10]
-    """
-    result = []
-    for i in range (1, 10):
-        result.append(i)
-    return result
+from exercise.soal_1 import soal_1
 
-
-def test_1():
+def test_soal_1():
     expected = [1,2,3,4,5,6,7,8,9,10]
-    result = task_1()
-    assert result == expected, f"Expected{expected} but got {result}"
-    print('Test 1 Pass')
-    
+    result = soal_1()
+    assert result == expected, f"Expected {expected} but got {result}"
+    print('✅ Test soal_1 Pass')
+  
+
 if __name__ == "__main__":
-    test_1()
+    test_soal_1()
