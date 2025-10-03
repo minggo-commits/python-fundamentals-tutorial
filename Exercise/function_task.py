@@ -23,8 +23,12 @@ def function_2(n: int) -> bool:
 
 def function_3(n: int) -> list:
     """
-    
+    Buat fungsi untuk mengembalikan semua faktor dari n,
+    contoh 6 = [1, 2, 3, 6]
     """
+    #TODO: lengkapi fungsi ini
+    
+    pass
     
 
     
