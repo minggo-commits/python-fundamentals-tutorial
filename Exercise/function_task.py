@@ -27,7 +27,11 @@ def function_3(n: int) -> list:
     contoh 6 = [1, 2, 3, 6]
     """
     #TODO: lengkapi fungsi ini
-    
+    result = []
+    for i in range(1 , n+1):
+        if n % i == 0:
+            result.append(i)
+    return result       
     pass
     
 
