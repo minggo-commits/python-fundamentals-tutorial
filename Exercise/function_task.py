@@ -34,5 +34,11 @@ def function_3(n: int) -> list:
     return result       
     pass
     
-
+def function_4(n:int)-> list:
+    """
+    Task:
+    Buat fungsi untuk menghasilkan
+    deret Fibonacci sepanjang n
+    Contoh (6) = [0, 1, 1, 2, 3]
+    """
     
